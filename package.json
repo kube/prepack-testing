@@ -1,0 +1,9 @@
+{
+  "name": "prepack-testing",
+  "scripts": {
+    "build": "prepack src/1_hello.js --out build/1_hello.js"
+  },
+  "devDependencies": {
+    "prepack": "^0.2.38"
+  }
+}
